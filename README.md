@@ -37,12 +37,6 @@ youtube-clone/
 
 ---
 
-## 📸 Preview
-
-*(Add a screenshot here after running the project)*
-
----
-
 ## ⚡ How to Run
 
 1. Clone this repository:
